@@ -57,3 +57,16 @@ The server will run on: `http://localhost:3000`
 ## 📄 License
 
 This project is licensed under the MIT License.
+---
+
+## 📸 Screenshots
+
+### ✅ Terminal – Server Running
+![Terminal Running](screenshots/Screenshot_1_terminal.png)
+
+### 🗑️ DELETE Request – User Deleted
+![Delete Request](screenshots/Screenshot_2_delete_request.png)
+
+### 📥 GET Request – List Users
+![GET Request](screenshots/Screenshot_3_get_request.png)
+
